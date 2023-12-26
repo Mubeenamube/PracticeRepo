@@ -17,7 +17,7 @@ namespace Assignment2
 
             Console.WriteLine("Animal Names:");
 
-            // Use LINQ to filter and print animal names
+           
             var matchingAnimalNames = animalNames
                 .Where(animalName => sentence.IndexOf(animalName, StringComparison.OrdinalIgnoreCase) >= 0);
 
