@@ -1,0 +1,7 @@
+D:\_C#\DAY6\HandsOnDay6\HandsOnDay6\bin\Debug\HandsOnDay6.exe.config
+D:\_C#\DAY6\HandsOnDay6\HandsOnDay6\bin\Debug\HandsOnDay6.exe
+D:\_C#\DAY6\HandsOnDay6\HandsOnDay6\bin\Debug\HandsOnDay6.pdb
+D:\_C#\DAY6\HandsOnDay6\HandsOnDay6\obj\Debug\HandsOnDay6.csproj.AssemblyReference.cache
+D:\_C#\DAY6\HandsOnDay6\HandsOnDay6\obj\Debug\HandsOnDay6.csproj.CoreCompileInputs.cache
+D:\_C#\DAY6\HandsOnDay6\HandsOnDay6\obj\Debug\HandsOnDay6.exe
+D:\_C#\DAY6\HandsOnDay6\HandsOnDay6\obj\Debug\HandsOnDay6.pdb
